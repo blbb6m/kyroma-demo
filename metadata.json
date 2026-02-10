@@ -1,0 +1,7 @@
+{
+  "name": "Kyroma Demo Version",
+  "description": "A premium platform connecting event planners with professional photographers, featuring value-based event hosting, career planning, event fit analysis, and multi-role bidding.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
